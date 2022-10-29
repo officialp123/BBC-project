@@ -1,0 +1,31 @@
+{
+  "placeholder": {
+    "english": "YOU HAVE NOT YET SELECTED ANY CITY",
+    "hindi": "आपने किसी भी शहर का चयन नहीं किया है"
+  },
+  "fotterTitle": {
+    "english": "BBC News Services",
+    "hindi": "बीबीसी समाचार सेवाएँ"
+  },
+  "fotterTextOne": {
+    "english": "On your mobile",
+    "hindi": "अपने मोबाइल पर"
+  },
+  "fotterTextTwo": {
+    "english": "On smart speakers",
+    "hindi": "स्मार्ट वक्ताओं पर"
+  },
+  "fotterTextThree": {
+    "english": "Get news alerts",
+    "hindi": "समाचार अलर्ट प्राप्त करें"
+  },
+  "copyRight": {
+    "english": "Copyright © 2022 BBC.",
+    "hindi": "कॉपीराइट और © 2022 बीबीसी।"
+  },
+  "developerName": {
+    "english": "Developed by Uchenna Chiagozie@BBC.com.",
+    "hindi": "Uchenna Chiagozie@BBC.com द्वारा विकसित।"
+  }
+}
+
